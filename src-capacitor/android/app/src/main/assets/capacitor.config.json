@@ -1,0 +1,10 @@
+{
+	"appId": "com.nunogois.quasarble",
+	"appName": "Quasar BLE",
+	"bundledWebRuntime": false,
+	"npmClient": "yarn",
+	"webDir": "www",
+	"server": {
+		"url": "http://192.168.1.64:8080"
+	}
+}

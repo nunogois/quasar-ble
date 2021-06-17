@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Quasar BLE</string>
+    <string name="title_activity_main">Quasar BLE</string>
+    <string name="package_name">com.nunogois.quasarble</string>
+    <string name="custom_url_scheme">com.nunogois.quasarble</string>
+</resources>

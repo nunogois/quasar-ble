@@ -1,0 +1,7 @@
+{
+  "appId": "com.nunogois.quasarble",
+  "appName": "Quasar BLE",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
