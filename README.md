@@ -33,7 +33,7 @@ Also <a href="https://capacitorjs.com/">Capacitor v3</a> and the Capacitor Commu
 
 - Lottie
 
-[Bestdit icon](https://www.flaticon.com/free-icon/trophy_3112946) made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+**quasar-ble** icon adapted from this [Lottie](https://lottiefiles.com/7644-ble-connecting)
 
 Free animated illustrations from [LottieFiles](https://lottiefiles.com/)
 
@@ -61,5 +61,7 @@ If you wish to build for iOS, simply follow the steps in the Quasar documentatio
 - [x] Add Lottie
 - [x] GitHub repo
 - [x] Add meta tags
-- [ ] App icon
-- [ ] Setup builds (PWA, Windows, Android, etc)
+- [x] App icon
+- [x] Setup builds (Android, etc)
+- [ ] Overall polish
+- [ ] Code cleanup

@@ -1,6 +1,6 @@
 {
   "name": "quasar-ble",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Quasar Framework BLE (Bluetooth Low Energy) App Example",
   "author": "Nuno Góis <github@nunogois.com>",
   "private": true,

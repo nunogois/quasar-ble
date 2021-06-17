@@ -1,0 +1,2 @@
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore quasar-ble.keystore dist\capacitor\android\apk\release\app-release-unsigned.apk quasar-ble
+zipalign -v 4 dist\capacitor\android\apk\release\app-release-unsigned.apk dist\Quasar-BLE.apk

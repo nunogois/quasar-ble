@@ -1,6 +1,6 @@
 {
   "name": "quasar-ble",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Quasar Framework BLE (Bluetooth Low Energy) App Example",
   "productName": "Quasar BLE",
   "author": "Nuno Góis <github@nunogois.com>",
@@ -8,10 +8,8 @@
   "scripts": {
     "dev": "quasar dev",
     "dev:android": "quasar dev -m capacitor -T android",
-    "dev:electron": "quasar dev -m electron",
-    "build:pwa": "quasar build -m pwa",
     "build:android": "quasar build -m capacitor -T android",
-    "build:electron": "quasar build -m electron",
+    "sign:android": "android-sign-apk.bat",
     "lint": "eslint --ext .js,.ts,.vue ./",
     "test": "echo \"No test specified\" && exit 0"
   },
