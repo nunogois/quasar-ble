@@ -2,11 +2,11 @@
   <img src="https://github.com/nunogois/quasar-ble/blob/master/public/images/thumbnail.png?raw=true" height="450" /> 
 <p>
 
-Quasar Framework BLE (Bluetooth Low Energy) App Example.
-
-Built using <a href="https://quasar.dev/">Quasar Framework</a> - A <a href="https://vuejs.org/">VueJS</a> framework.
-
-Also <a href="https://capacitorjs.com/">Capacitor v3</a> and the Capacitor Community plugin <a href="https://github.com/capacitor-community/bluetooth-le">bluetooth-le</a>.
+<p align="center">
+  Quasar Framework BLE (Bluetooth Low Energy) App Example.<br /><br />
+  Built using <a href="https://quasar.dev/">Quasar Framework</a> - A <a href="https://vuejs.org/">VueJS</a> framework.<br />
+  Also <a href="https://capacitorjs.com/">Capacitor v3</a> and the Capacitor Community plugin <a href="https://github.com/capacitor-community/bluetooth-le">bluetooth-le</a>.
+</p>
 
 <p align="center">
   <a href="https://github.com/nunogois/quasar-ble/blob/master/demo_screenshots/quasar-ble.png?raw=true"><img src="https://github.com/nunogois/quasar-ble/blob/master/demo_screenshots/quasar-ble.png?raw=true" height="600" /></a>
