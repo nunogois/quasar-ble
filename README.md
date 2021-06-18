@@ -1,4 +1,6 @@
-# Quasar BLE (quasar-ble)
+<p align="center">
+  <img src="https://github.com/nunogois/quasar-ble/blob/master/public/images/thumbnail.png?raw=true" height="450" /> 
+<p>
 
 Quasar Framework BLE (Bluetooth Low Energy) App Example.
 
@@ -65,3 +67,5 @@ If you wish to build for iOS, simply follow the steps in the Quasar documentatio
 - [x] Setup builds (Android, etc)
 - [ ] Overall polish
 - [ ] Code cleanup
+- [ ] Make TypeScript happier
+- [ ] Make it more Composition API-like where it makes sense
