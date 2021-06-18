@@ -79,8 +79,8 @@ export default defineComponent({
       else if (this.$q.platform.is.ios)
         return {
           name: 'iOS',
-          icon: 'fab fa-android',
-          color: 'light-green-6',
+          icon: 'fab fa-apple',
+          color: 'blue-grey-5',
           native: this.$q.platform.is.capacitor as boolean
         }
 
